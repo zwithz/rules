@@ -1,5 +1,6 @@
 # NAME: Xiaohongshu
 # DESC: 小红书 / rednote（国际版）。建议走 DIRECT，否则会被识别为海外 IP 并跳转到 rednote.com
+# POLICY: DIRECT
 # UPDATED: 2026-10-06
 
 # 小红书国内版
